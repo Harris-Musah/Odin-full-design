@@ -88,7 +88,7 @@
 
 .content-2{
     margin: 16px;
-    height: 150px;
+    height: 350px;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -102,4 +102,26 @@
     padding: 0;
     border: 2px solid #4B7ED9;
     border-radius: 10px;
+}
+
+.content-3{
+    margin: 50px;
+    display: flex;
+    width: 60%;
+    height: 60px;
+    background-color: #3B82F6;
+    padding: 16px;
+    border-radius: 10px;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+
+.signup{
+    text-align: center;
+    border: 2px solid white;
+    padding-inline: 12px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
 }
